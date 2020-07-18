@@ -1,5 +1,5 @@
 # TestHarnessAPI
-
+This is the remote REST API Endpoint for which we will be developing the test harness.
 REST API Endpoints:
 
 http://35.244.107.6/restapi/api/order?customerNo=12345
